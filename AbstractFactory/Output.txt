@@ -1,0 +1,8 @@
+Dell
+Desktop size: 10
+Mouse size: 5
+Adapter Wire size: 3
+HP
+Desktop size: 12
+Mouse size: 6
+Adapter Wire size: 8
