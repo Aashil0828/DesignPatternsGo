@@ -1,0 +1,8 @@
+Indian House
+Wall Type: Cement & Bricks
+Floor Type: Tiles
+Window Type: Wooden
+Foreign House
+Wall Type: Wooden
+Floor Type: Carpet
+Window Type: Glass
